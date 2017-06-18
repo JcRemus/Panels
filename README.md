@@ -1,1 +1,1 @@
-# Panels
+# Bootstrap-panels
